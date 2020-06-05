@@ -1,11 +1,8 @@
 .env
+!.env.example
 
 node_modules/
 uploads/
 
-!uploads/papeis-papelao.svg
-!uploads/organicos.svg
-!uploads/oleo.svg
-!uploads/lampadas.svg
-!uploads/eletronicos.svg
-!uploads/baterias.svg
+!uploads/.gitkeep
+
