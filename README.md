@@ -32,7 +32,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src=".github/frontend.png" width="100%">
+  <img alt="Cover" src=".github/cover.png" width="100%">
 </p>
 
 ## Tecnologias
