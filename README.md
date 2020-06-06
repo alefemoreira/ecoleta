@@ -47,7 +47,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
-O Ecoleta é um projeto que visa conectar Entidades de Coleta á pessoas bem intencionadas.
+O Ecoleta ajuda pessoas a encontrarem pontos de coleta de forma eficiente.
 
 ## Layout
 
